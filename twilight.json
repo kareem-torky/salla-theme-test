@@ -685,7 +685,25 @@
             "title": "مكون اختبار",
             "icon": "sicon-store",
             "path": "custom.test",
-            "fields": []
+            "fields": [
+                {
+                    "id": "string",
+                    "key": "5176696d-7e94-4de6-9255-9942396eedb3",
+                    "type": "string",
+                    "format": "text",
+                    "label": "String",
+                    "description": null,
+                    "labelHTML": null,
+                    "placeholder": "this is here",
+                    "icon": "sicon-format-text-alt",
+                    "value": "this is here",
+                    "multilanguage": false,
+                    "required": false,
+                    "minLength": 6,
+                    "maxLength": 30,
+                    "defaulted": true
+                }
+            ]
         }
     ],
     "support_url": "https://salla.dev",
