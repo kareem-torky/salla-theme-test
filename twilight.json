@@ -21,7 +21,7 @@
         "component-square-photos",
         "component-store-features",
         "component-youtube",
-        "component-6e77d59b-216f-4135-8b26-4c3235c75378"
+        "component-test"
     ],
     "settings": [
         {
@@ -681,7 +681,7 @@
             ]
         },
         {
-            "key": "6e77d59b-216f-4135-8b26-4c3235c75378",
+            "key": "test",
             "title": "مكون اختبار",
             "icon": "sicon-store",
             "path": "custom.test",
