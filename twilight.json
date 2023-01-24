@@ -704,6 +704,13 @@
                     "defaulted": true
                 }
             ]
+        },
+        {
+            "key": "fbc323b4-5972-46ae-a01a-64565056e1ea",
+            "title": "مكون اختبار للرئيسية",
+            "icon": "sicon-store",
+            "path": "home.test",
+            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
