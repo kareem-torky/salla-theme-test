@@ -21,7 +21,7 @@
         "component-square-photos",
         "component-store-features",
         "component-youtube",
-        "component-test"
+        "component-home-test"
     ],
     "settings": [
         {
@@ -706,7 +706,7 @@
             ]
         },
         {
-            "key": "fbc323b4-5972-46ae-a01a-64565056e1ea",
+            "key": "home-test",
             "title": "مكون اختبار للرئيسية",
             "icon": "sicon-store",
             "path": "home.test",
