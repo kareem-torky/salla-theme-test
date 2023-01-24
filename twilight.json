@@ -710,7 +710,18 @@
             "title": "مكون اختبار للرئيسية",
             "icon": "sicon-store",
             "path": "home.test",
-            "fields": []
+            "fields": [
+                {
+                    "id": "home-test-title",
+                    "key": "8e19c334-e327-43c7-9e39-e0662c2a9887",
+                    "type": "static",
+                    "format": "title",
+                    "label": "Title",
+                    "value": "home test component",
+                    "variant": "h1",
+                    "icon": "sicon-format-text"
+                }
+            ]
         }
     ],
     "support_url": "https://salla.dev",
